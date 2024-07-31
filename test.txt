@@ -3,3 +3,5 @@ Branch0 a eklenecek
 
 
 Pull request işlemi yapılacak.
+
+Git conflict test mains
