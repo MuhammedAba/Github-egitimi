@@ -1,2 +1,2 @@
-Merhaba bu bir testtir.
+Merhaba bu bir testtir. Test değildir. 
 Branch0 a eklenecek
