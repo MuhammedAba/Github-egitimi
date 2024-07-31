@@ -4,4 +4,4 @@ Branch0 a eklenecek
 
 Pull request işlemi yapılacak.
 
-Git conflict test mains
+Git branch conflict test
